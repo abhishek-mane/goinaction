@@ -1,0 +1,8 @@
+* Run following command on console
+    > go tool tour
+
+* Complete following assignments
+    > http://127.0.0.1:3999/moretypes/18 > assignment1.go > based on slice
+    > http://127.0.0.1:3999/moretypes/23 > assignment2.go > based on maps
+    > http://127.0.0.1:3999/moretypes/26 > assignment3.go > based on function closures
+    
